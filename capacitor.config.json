@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "myPortals",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

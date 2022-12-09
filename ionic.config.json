@@ -1,0 +1,7 @@
+{
+  "name": "myPortals",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
